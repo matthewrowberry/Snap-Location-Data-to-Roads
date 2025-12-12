@@ -2,7 +2,7 @@
 
 I built a website to display the gps data that I had collected as I served a mission for the Church of Jesus Christ of Latter-Day Saints. This required removing extraneous points, removing unecessary points, and interpolating the gps points using OSRM (open source routing machine). Then I uploaded it to a SQL database and created a site to view the data.
 
-##Demo
+## Demo
 [Demo](mrowberry.com/mission-map/newdemo)
 
 ## Instructions for Build and Use
